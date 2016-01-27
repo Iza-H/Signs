@@ -1,7 +1,7 @@
 # Signs
 **Reconocimiento de las señales (AndroidSDK, OpenCV)**
 
-Aplicación para Android que pre-procesa imágenes captadas por la cámara y después de reconocer una señal de tráfico - preséntala en la pantalla del mobile. Proyecto realizado para aprobar el curso de Google Glass y dispositivos wearable. [AndroidSDK, OpenCV]
+Aplicación para Android que pre-procesa imágenes captadas por la cámara y después de reconocer una señal de tráfico - preséntala en la pantalla del mobile. [AndroidSDK, OpenCV]
 
 
 ##Ejemplos:
