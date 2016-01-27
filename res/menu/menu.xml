@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+		android:id="@+id/cambiarCamara" 
+		android:icon="@android:drawable/ic_menu_camera" 
+		android:title="Cambiar cámara"/>
+	<item
+		android:id="@+id/cambiarResolucion" 
+		android:icon="@android:drawable/ic_menu_view" 
+		android:title="Cambiar resolucion">
+		<menu>
+			<item android:id="@+id/resolucion_800x600" android:title="800x600"/>
+			<item android:id="@+id/resolucion_640x480" android:title="640x480"/>
+			<item android:id="@+id/resolucion_320x240" android:title="320x240"/>
+        </menu>
+    </item>
+   <!--  <item
+        android:id="@+id/cambiar_entrada"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Cambiar entrada">
+		<menu>
+			<item android:id="@+id/entrada_camara" android:title="camara"/>
+			<item android:id="@+id/entrada_fichero1" android:title="fichero1"/>
+			<item android:id="@+id/entrada_fichero2" android:title="fichero2"/>
+			<item android:id="@+id/f1" android:title="f3"/>
+			<item android:id="@+id/f2" android:title="f4"/>
+			<item android:id="@+id/f3" android:title="f5"/>
+			<item android:id="@+id/f4" android:title="f6"/>
+			<item android:id="@+id/f5" android:title="f7"/>
+			<item android:id="@+id/f6" android:title="f8"/>
+			<item android:id="@+id/f7" android:title="f9"/>
+			<item android:id="@+id/f8" android:title="f10"/>
+			<item android:id="@+id/f9" android:title="f11"/>
+			<item android:id="@+id/f10" android:title="f12"/>
+			<item android:id="@+id/f11" android:title="f13"/>
+			<item android:id="@+id/f12" android:title="f14"/>
+			<item android:id="@+id/f13" android:title="f15"/>
+			<item android:id="@+id/f14" android:title="f16"/>
+			<item android:id="@+id/f15" android:title="f17"/>
+			<item android:id="@+id/f16" android:title="f18"/>
+			<item android:id="@+id/f17" android:title="f19"/>
+			<item android:id="@+id/f18" android:title="f20"/>
+			<item android:id="@+id/f19" android:title="f21"/>
+			<item android:id="@+id/f22" android:title="f24"/>
+			<item android:id="@+id/f23" android:title="f25"/>
+			<item android:id="@+id/f24" android:title="f26"/>
+			<item android:id="@+id/f26" android:title="f28"/>
+			<item android:id="@+id/img3" android:title="img3"/>
+			<item android:id="@+id/img4" android:title="img4"/>
+			<item android:id="@+id/img5" android:title="img5"/>
+			<item android:id="@+id/img6" android:title="img6"/>
+			<item android:id="@+id/img7" android:title="img7"/>
+			<item android:id="@+id/img8" android:title="img7"/>
+			<item android:id="@+id/img9" android:title="img9"/>
+			
+
+			
+        </menu>        
+    </item>-->
+     <item
+		android:id="@+id/guardar_imagenes" 
+		android:icon="@android:drawable/ic_menu_gallery" 
+		android:title=" Guardar imagenes ">
+	</item>
+        
+    
+
+</menu>
